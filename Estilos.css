@@ -1,0 +1,32 @@
+.FORMULARIO{
+    height: auto;
+    margin: 0%;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    padding: 1px;
+
+
+}
+
+.contenedor{
+    height: auto;
+    margin: 0%;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    padding: 1px;
+}
+
+
+.controls{
+    width: 100%;
+    background: rgb(189, 172, 61);
+    padding: 10px;
+    border-radius: 16px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(99, 101, 43);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+
+}
